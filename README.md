@@ -1,5 +1,4 @@
 # ColorDetectorApp
-KOTLIN
 A project I completed for mobile programming: it scans the color of the object you are pointing at with your mobile phone's camera.
 
 This app detects colors using the CameraX API and ImageAnalysis
@@ -33,4 +32,4 @@ The detected color name is displayed on the screen (binding.colorName.text).
 When a photo is taken, the app overlays the detected color name on the image before saving it.
 
 
-NOTE: JUST IMPORT THE ZIP FILE ON ANDROID STUDIO 
+NOTE: JUST IMPORT THE ZIP FILE ON ANDROID STUDIO I USED KOTLIN LANGUAGE
